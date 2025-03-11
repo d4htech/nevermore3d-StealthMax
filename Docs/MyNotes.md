@@ -26,17 +26,17 @@
         <tr>
             <td rowspan=5>BPM Printed Parts</td>
             <td rowspan=3>Mount [3]</td>
-            <td>Voron Exhaust Fitting</td>
+            <td>Voron Exhaust Fitting (BPM)</td>
         </tr>
         <tr>
-            <td>Back Panel Mount</td>
+            <td>Back Panel Mount (BPM)</td>
         </tr>
         <tr>
-            <td>BackPanel Mount Cover</td>
+            <td>BackPanel Mount Cover (BPM)</td>
         </tr>
         <tr>
-            <td rowspan=2>L2 Name B</td>
-            <td>L3 Name C</td>
+            <td rowspan=2>Flow Chamber</td>
+            <td>Flow Chamber (BPM)</td>
         </tr>
         <tr>
             <td>L3 Name D</td>
