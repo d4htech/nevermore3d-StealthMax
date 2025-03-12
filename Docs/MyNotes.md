@@ -9,7 +9,7 @@
 | # | Part         | BPM/ Common | Qty. | Used in Section | 
 | - | ------------ | ----------- | -----| --------------- |
 | 1 | Voron Exhaust Fitting | BPM | x1 | [8/8] Main Chamber Assembly Continued (BPM Mounting)
-| 2 | Back Panel Mount | BPM | x1 | [8/8] Main Chamber Assembly Continued (BPM Mounting)
+| 2 | Back Panel Mount (Check User Mod for BTT Smart Filament Sensor) | BPM | x1 | [8/8] Main Chamber Assembly Continued (BPM Mounting)
 | 3 | Back Panel Mount Cover | BPM | x1 | [8/8] Main Chamber Assembly Continued (BPM Mounting)
 
 ## Flow Chamber
@@ -54,6 +54,16 @@
 | 4 | Lid Latch | Common | x 1 | [3/8] Main Chamber Assembly
 
 ## Add Ons
+
+## User Mods
+
+1. Voronexhaustfitting_BPM- BTT smart filament sensor
+
+[bowdencap_ptfe.stl](https://github.com/nevermore3d/StealthMax/blob/5508b788134e268bf17d7d4c7089e4a5438d2894/UserMods/Voronexhaustfitting_BPM-%20BTT%20smart%20filament%20sensor/bowdencap_ptfe.stl)
+
+[btt2_bracket.stl](https://github.com/nevermore3d/StealthMax/blob/5508b788134e268bf17d7d4c7089e4a5438d2894/UserMods/Voronexhaustfitting_BPM-%20BTT%20smart%20filament%20sensor/btt2_bracket.stl)
+
+[exhaustfitting_bpm_btt2.stl](https://github.com/nevermore3d/StealthMax/blob/5508b788134e268bf17d7d4c7089e4a5438d2894/UserMods/Voronexhaustfitting_BPM-%20BTT%20smart%20filament%20sensor/exhaustfitting_bpm_btt2.stl)
 
 
 ++++++
