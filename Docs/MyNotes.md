@@ -1,4 +1,91 @@
 
+
+
+
+
+# Back Panel Mount (BPM) Printed Parts
+
+## Mount
+| # | Part         | BPM/ Common | Qty. | Used in Section | 
+| - | ------------ | ----------- | -----| --------------- |
+| 1 | Voron Exhaust Fitting | BPM | x1 | [8/8] Main Chamber Assembly Continued (BPM Mounting)
+| 2 | Back Panel Mount | BPM | x1 | [8/8] Main Chamber Assembly Continued (BPM Mounting)
+| 3 | Back Panel Mount Cover | BPM | x1 | [8/8] Main Chamber Assembly Continued (BPM Mounting)
+
+## Flow Chamber
+| # | Part         | BPM/ Common | Qty. | Used in Section | 
+| - | ------------ | ----------- | -----| --------------- |
+| 1 | Flow Chamber | BPM | x 1 | [5/8] Flow Chamber Assembly
+| 2 | Air Exhaust Wheel | BPM |  x 1 | [5/8] Flow Chamber Assembly
+| 3 | Air Exhaust Slider | Common |  x 1 | [5/8] Flow Chamber Assembly
+| 4 | Bowden Cap-Closed | Common | x 1 | [7/8] Main Chamber Assembly Continued
+| 5 | Bowden Cap-Open | Common | x 1 | [7/8] Main Chamber Assembly Continued
+| 6 | Cable Entry Cap - M8 Barrel | Common | x 1 | [4/8] Smart Electronics Preparation
+| 7 | Cable Entry Cap - Micro Fit 3 | Common | 
+| 8 | Cable Entry Cap - Closed | Common | 
+| 9 | Fan Wire Pin - Spare | Common | Spare | [5/8] Flow Chamber Assembly
+| 10 | PCB Spacer | Common |  x 4 | [5/8] Flow Chamber Assembly
+
+## Main Chamber
+| # | Part         | BPM/ Common | Qty. | Used in Section | 
+| - | ------------ | ----------- | -----| --------------- |
+| 1 | Main Chamber | Common | x 1 | [7/8] Main Chamber Assembly Continued
+| 2 | Carbon Basket | Common | x 1 | [6/8] Carbon Basket Assembly
+| 2 | Carbon Basket Lid | Common
+| 2 | Carbon Basket Lid - no Handles | Common | x 1 | [6/8] Carbon Basket Assembly
+| 2 | Carbon Basket Lid - MMU | Common
+| 2 | Carbon Basket Lid - MMU - no Handles | Common
+| 2 | HEPA Cover | Common | x 1 | [7/8] BPM Main Chamber Assembly Continued
+| 2 | HEPA Pryer Tool - Spare | Common
+| 2 | Logo Cap | Common | x 1 | [7/8] Main Chamber Assembly Continued
+| 2 | Logo Cap - MMU | Common 
+| 2 | Pico Access Latch | Common | x 1 | [7/8] Main Chamber Assembly Continued
+| 2 | Pico Access Latch - MMU | Common
+| 2 | Intake Sensor Stack Access Latch | Common | x 1 | [7/8] Main Chamber Assembly Continued
+| 2 | Bowden Tube Access Latch | Common | x 1 | [7/8] Main Chamber Assembly Continued
+| 2 | Carbon Basket Lid Handle - Spare | Common | x 2 | [6/8] Carbon Basket Assembly
+
+## Lid
+| # | Part         | BPM/ Common | Qty. | Used in Section | 
+| - | ------------ | ----------- | -----| --------------- |
+| 1 | Lid Frame | Common | x 1 | [1/8] Printed Parts Preparation, [2/8] Lid Assembly, [6/8] Main Chamber Assembly Continued
+| 2 | Lid Panel Holder | Common | x 1 | [2/8] Lid Assembly
+| 3 | Lid Front Hinge | Common | x 1 | [1/8] Printed Parts Preparation, [2/8] Lid Assembly
+| 4 | Lid Latch | Common | x 1 | [3/8] Main Chamber Assembly
+
+## Add Ons
+
+
+++++++
+## [1/8] Printed Parts Preparation
+
+## [2/8] Lid Assembly
+
+## [3/8] Main Chamber Assembly
+
+## [4/8] Smart Electronics Preparation
+
+## [5/8] Flow Chamber Assembly
+
+## [6/8] Carbon Basket Assembly
+
+## [7/8] Main Chamber Assembly Continued
+
+## [8/8] Main Chamber Assembly Continued (BPM Mounting)
+
++++++
+
+
+| # | Section      | Part | Instrunctions | 
+| - | ------------ | ------------- | ------ |
+| 0 | Mount        | Main Chamber | Break off 4 corner tabs and the central circular ribbed support. <img width="640" alt="image" src="https://github.com/nevermore3d/StealthMax/blob/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/supports_mainchamber.png" />  |
+| 1 | Flow Chamber |
+| 2 | Main Chamber | 
+| 3 | Lid          |
+| 4 | Add Ons      |
+
+# Back Panel Mount (BPM) Preparation
+
 <h1 style="text-align:center;">Back Panel Mount (BPM) Assembly</h1>
 <p>Sections:</p>
 <ol style="list-style-type:decimal;">
@@ -1207,18 +1294,7 @@
 
 
 
-# Back Panel Mount (BPM) Printed Parts
 
-
-# Back Panel Mount (BPM) Preparation
-
-| # | Section      | Part | Instrunctions | 
-| - | ------------ | ------------- | ------ |
-| 0 | Mount        | Main Chamber | Break off 4 corner tabs and the central circular ribbed support. <img width="640" alt="image" src="https://github.com/nevermore3d/StealthMax/blob/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/supports_mainchamber.png" />  |
-| 1 | Flow Chamber |
-| 2 | Main Chamber | 
-| 3 | Lid          |
-| 4 | Add Ons      |
 
 
 <table>
