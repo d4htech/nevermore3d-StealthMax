@@ -149,7 +149,7 @@
                 <td>&nbsp;</td>
                 <td>
                     <p>Install heat set inserts x2 (indicated by blue circles).</p>
-                    <figure class="image"><img style="max-width: 100%; height: auto; aspect-ratio:921/681;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/heatset_voronexhaustfitting.png" width="921" height="681"></figure>
+                    <figure class="image"><img style="max-width: 100%; height: auto; aspect-ratio:921/681;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/heatset_voronexhaustfitting.png"></figure>
                 </td>
             </tr>
             <tr>
@@ -174,7 +174,7 @@
                     <p>Remove the built-in support material (indicated by green color).</p>
                     <figure class="image"><img style="-webkit-text-stroke-width:0px; max-width: 100%; height: auto; aspect-ratio:1503/643;caret-color:rgb(0, 0, 0);color:rgb(0, 0, 0);font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;max-width:100%;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/supports_flowchamber.png" alt="BPM Lid Frame Supports" width="1503" height="643"></figure>
                     <p>Install heat set inserts x16 (indicated by blue circles).</p>
-                    <figure class="image"><img style="max-width: 100%; height: auto; aspect-ratio:1045/834;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/heatset_flowchamber.png" width="1045" height="834"></figure>
+                    <figure class="image"><img style="max-width: 100%; height: auto; aspect-ratio:1045/834;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/heatset_flowchamber.png"></figure>
                 </td>
             </tr>
             <tr>
