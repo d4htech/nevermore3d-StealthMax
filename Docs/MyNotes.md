@@ -149,7 +149,7 @@
                 <td>&nbsp;</td>
                 <td>
                     <p>Install heat set inserts x2 (indicated by blue circles).</p>
-                    <figure class="image"><img style="aspect-ratio:921/681;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/heatset_voronexhaustfitting.png" width="921" height="681"></figure>
+                    <figure class="image"><img style="max-width: 100%; height: auto; aspect-ratio:921/681;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/heatset_voronexhaustfitting.png" width="921" height="681"></figure>
                 </td>
             </tr>
             <tr>
@@ -172,9 +172,9 @@
                 <td>&nbsp;</td>
                 <td>
                     <p>Remove the built-in support material (indicated by green color).</p>
-                    <figure class="image"><img style="-webkit-text-stroke-width:0px;aspect-ratio:1503/643;caret-color:rgb(0, 0, 0);color:rgb(0, 0, 0);font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;max-width:100%;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/supports_flowchamber.png" alt="BPM Lid Frame Supports" width="1503" height="643"></figure>
+                    <figure class="image"><img style="-webkit-text-stroke-width:0px; max-width: 100%; height: auto; aspect-ratio:1503/643;caret-color:rgb(0, 0, 0);color:rgb(0, 0, 0);font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;max-width:100%;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/supports_flowchamber.png" alt="BPM Lid Frame Supports" width="1503" height="643"></figure>
                     <p>Install heat set inserts x16 (indicated by blue circles).</p>
-                    <figure class="image"><img style="aspect-ratio:1045/834;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/heatset_flowchamber.png" width="1045" height="834"></figure>
+                    <figure class="image"><img style="max-width: 100%; height: auto; aspect-ratio:1045/834;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/heatset_flowchamber.png" width="1045" height="834"></figure>
                 </td>
             </tr>
             <tr>
@@ -239,9 +239,9 @@
                 <td>&nbsp;</td>
                 <td>
                     <p>Remove the built-in support material (indicated by green color).</p>
-                    <figure class="image"><img style="aspect-ratio:1311/957;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/supports_mainchamber.png" width="1311" height="957"></figure>
+                    <figure class="image"><img style="max-width: 100%; height: auto; aspect-ratio:1311/957;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/supports_mainchamber.png"></figure>
                     <p>Install heat set inserts x6 (indicated by blue circles).</p>
-                    <figure class="image"><img style="aspect-ratio:1038/833;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/heatset_mainchamber.png" width="1038" height="833"></figure>
+                    <figure class="image"><img style="max-width: 100%; height: auto; aspect-ratio:1038/833;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/heatset_mainchamber.png"></figure>
                 </td>
             </tr>
             <tr>
@@ -250,7 +250,7 @@
                 <td>&nbsp;</td>
                 <td>
                     <p>Install heat set inserts x2 (indicated by blue circles).</p>
-                    <figure class="image"><img style="aspect-ratio:1111/889;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/heatset_carbonbasket.png" width="1111" height="889"></figure>
+                    <figure class="image"><img style="max-width: 100%; height: auto; aspect-ratio:1111/889;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/heatset_carbonbasket.png"></figure>
                 </td>
             </tr>
             <tr>
@@ -339,7 +339,7 @@
                 <td>x1</td>
                 <td>
                     <p>Remove the built-in support material (indicated by green color).</p>
-                    <figure class="image"><img style="aspect-ratio:1078/881;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/supports_lidframe.png" width="1078" height="881"></figure>
+                    <figure class="image"><img style="max-width: 100%; height: auto; aspect-ratio:1078/881;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/supports_lidframe.png"></figure>
                 </td>
             </tr>
             <tr>
@@ -354,7 +354,7 @@
                 <td>x1</td>
                 <td>
                     <p>Install heat set inserts x2 (indicated by blue circles).</p>
-                    <figure class="image"><img style="aspect-ratio:604/496;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/heatset_lidfronthinge.png" width="604" height="496"></figure>
+                    <figure class="image"><img style="max-width: 100%; height: auto; aspect-ratio:604/496;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/heatset_lidfronthinge.png"></figure>
                 </td>
             </tr>
             <tr>
@@ -413,7 +413,7 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="-webkit-text-stroke-width:0px;aspect-ratio:2048/1536;caret-color:rgb(0, 0, 0);color:rgb(0, 0, 0);font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;max-width:100%;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/lid_assembly_fronthinge_300.JPEG" alt="Lid Front Hinge attach to Lid Panel Holder" width="2048" height="1536"></figure>
+                    <figure class="image"><img style="-webkit-text-stroke-width:0px;aspect-ratio:2048/1536;caret-color:rgb(0, 0, 0);color:rgb(0, 0, 0);font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;max-width:100%;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/lid_assembly_fronthinge_300.JPEG" alt="Lid Front Hinge attach to Lid Panel Holder"></figure>
                 </td>
             </tr>
             <tr>
@@ -423,7 +423,7 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="-webkit-text-stroke-width:0px;aspect-ratio:2048/1536;caret-color:rgb(0, 0, 0);color:rgb(0, 0, 0);font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;max-width:100%;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/lid_assembly_acrylicpanel_300.JPEG" alt="Acrylic Panel insert into Lid Panel Holder" width="2048" height="1536"></figure>
+                    <figure class="image"><img style="-webkit-text-stroke-width:0px;aspect-ratio:2048/1536;caret-color:rgb(0, 0, 0);color:rgb(0, 0, 0);font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;max-width:100%;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/lid_assembly_acrylicpanel_300.JPEG" alt="Acrylic Panel insert into Lid Panel Holder"></figure>
                 </td>
             </tr>
             <tr>
@@ -433,7 +433,7 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="-webkit-text-stroke-width:0px;aspect-ratio:2048/1536;caret-color:rgb(0, 0, 0);color:rgb(0, 0, 0);font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;max-width:100%;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/lid_assembly_lidframe_rotate_300.JPEG" alt="Lid Frame insert into Lid Panel Holder" width="2048" height="1536"></figure>
+                    <figure class="image"><img style="-webkit-text-stroke-width:0px;aspect-ratio:2048/1536;caret-color:rgb(0, 0, 0);color:rgb(0, 0, 0);font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;max-width:100%;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/lid_assembly_lidframe_rotate_300.JPEG" alt="Lid Frame insert into Lid Panel Holder"></figure>
                 </td>
             </tr>
             <tr>
@@ -443,7 +443,7 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="-webkit-text-stroke-width:0px;aspect-ratio:1588/1308;caret-color:rgb(0, 0, 0);color:rgb(0, 0, 0);font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;max-width:100%;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/lid_assembly_lidframe_rotateinplace_300.JPEG" alt="Lid Frame insert locking" width="1588" height="1308"></figure>
+                    <figure class="image"><img style="-webkit-text-stroke-width:0px;aspect-ratio:1588/1308;caret-color:rgb(0, 0, 0);color:rgb(0, 0, 0);font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;max-width:100%;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/lid_assembly_lidframe_rotateinplace_300.JPEG" alt="Lid Frame insert locking"></figure>
                 </td>
             </tr>
             <tr>
@@ -493,7 +493,7 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/mainchamber_assembly_lidlatch_300.JPEG" width="2048" height="1536"></figure>
+                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/mainchamber_assembly_lidlatch_300.JPEG"></figure>
                 </td>
             </tr>
             <tr>
@@ -503,7 +503,7 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/mainchamber_sponge_cord_300.JPEG" width="2048" height="1536"></figure>
+                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/mainchamber_sponge_cord_300.JPEG"></figure>
                 </td>
             </tr>
             <tr>
@@ -513,7 +513,7 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/mainchamber_lid_dryfit_300.JPEG" width="2048" height="1536"></figure>
+                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/mainchamber_lid_dryfit_300.JPEG"></figure>
                 </td>
             </tr>
         </tbody>
@@ -592,8 +592,8 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:1600/1205;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/DOPM/dopm_electronics_m8_dc_soldered.png" width="1600" height="1205"></figure>
-                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_electronics_m8_dc_inserted.JPEG" width="2048" height="1536"></figure>
+                    <figure class="image"><img style="aspect-ratio:1600/1205;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/DOPM/dopm_electronics_m8_dc_soldered.png"></figure>
+                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_electronics_m8_dc_inserted.JPEG"></figure>
                 </td>
             </tr>
             <tr>
@@ -603,7 +603,7 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_electronics_buck_converter_soldered1.JPEG" width="2048" height="1536"></figure>
+                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_electronics_buck_converter_soldered1.JPEG"></figure>
                 </td>
             </tr>
             <tr>
@@ -613,7 +613,7 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_electronics_bme_soldered.JPEG" width="2048" height="1536"></figure>
+                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_electronics_bme_soldered.JPEG"></figure>
                 </td>
             </tr>
             <tr>
@@ -623,8 +623,8 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="-webkit-text-stroke-width:0px;aspect-ratio:2048/1536;caret-color:rgb(0, 0, 0);color:rgb(0, 0, 0);font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;max-width:100%;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_electronics_bme_sgp40_soldered.JPEG" alt="SGP40 PCBs soldered" width="2048" height="1536"></figure>
-                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_electronics_bme_sgp40_clearance.JPEG" width="2048" height="1536"></figure>
+                    <figure class="image"><img style="-webkit-text-stroke-width:0px;aspect-ratio:2048/1536;caret-color:rgb(0, 0, 0);color:rgb(0, 0, 0);font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;max-width:100%;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_electronics_bme_sgp40_soldered.JPEG" alt="SGP40 PCBs soldered"></figure>
+                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_electronics_bme_sgp40_clearance.JPEG"></figure>
                 </td>
             </tr>
             <tr>
@@ -634,7 +634,7 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:1600/1182;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/DOPM/dopm_electronics_pi_pico_soldered.png" width="1600" height="1182"></figure>
+                    <figure class="image"><img style="aspect-ratio:1600/1182;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/DOPM/dopm_electronics_pi_pico_soldered.png"></figure>
                 </td>
             </tr>
             <tr>
@@ -644,7 +644,7 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:907/921;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_electronics_ypbg_dupont.JPEG" width="907" height="921"></figure>
+                    <figure class="image"><img style="aspect-ratio:907/921;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_electronics_ypbg_dupont.JPEG" ></figure>
                 </td>
             </tr>
             <tr>
@@ -654,7 +654,7 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:866/821;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_electronics_bgbg_dupont.JPEG" width="866" height="821"></figure>
+                    <figure class="image"><img style="aspect-ratio:866/821;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_electronics_bgbg_dupont.JPEG"></figure>
                 </td>
             </tr>
             <tr>
@@ -664,7 +664,7 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_electronics_bgyp_dupont.JPEG" width="2048" height="1536"></figure>
+                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_electronics_bgyp_dupont.JPEG"></figure>
                 </td>
             </tr>
             <tr>
@@ -689,9 +689,9 @@
                     </ul>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_electronics_dupont_jst1.JPEG" width="2048" height="1536"></figure>
-                    <figure class="image"><img style="-webkit-text-stroke-width:0px;aspect-ratio:2048/1536;caret-color:rgb(0, 0, 0);color:rgb(0, 0, 0);font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;max-width:100%;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_electronics_dupont_jst2.JPEG" alt="DuPont JST-PH harness Heatshrink" width="2048" height="1536"></figure>
-                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_electronics_dupont_jst3.JPEG" width="2048" height="1536"></figure>
+                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_electronics_dupont_jst1.JPEG"></figure>
+                    <figure class="image"><img style="-webkit-text-stroke-width:0px;aspect-ratio:2048/1536;caret-color:rgb(0, 0, 0);color:rgb(0, 0, 0);font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;max-width:100%;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_electronics_dupont_jst2.JPEG" alt="DuPont JST-PH harness Heatshrink"></figure>
+                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_electronics_dupont_jst3.JPEG"></figure>
                 </td>
             </tr>
             <tr>
@@ -701,7 +701,7 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="-webkit-text-stroke-width:0px;aspect-ratio:2048/1536;caret-color:rgb(0, 0, 0);color:rgb(0, 0, 0);font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;max-width:100%;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_electronics_dupont_jst_m8.JPEG" alt="DuPont JST-PH M8 harness" width="2048" height="1536"></figure>
+                    <figure class="image"><img style="-webkit-text-stroke-width:0px;aspect-ratio:2048/1536;caret-color:rgb(0, 0, 0);color:rgb(0, 0, 0);font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;max-width:100%;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_electronics_dupont_jst_m8.JPEG" alt="DuPont JST-PH M8 harness"></figure>
                 </td>
             </tr>
             <tr>
@@ -719,7 +719,7 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_electronics_dupont_jst_m8_buck_pico.JPEG" width="2048" height="1536"></figure>
+                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_electronics_dupont_jst_m8_buck_pico.JPEG"></figure>
                 </td>
             </tr>
         </tbody>
@@ -764,7 +764,7 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_flowchamber_power_harness_routed.JPEG" width="2048" height="1536"></figure>
+                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_flowchamber_power_harness_routed.JPEG"></figure>
                 </td>
             </tr>
             <tr>
@@ -779,7 +779,7 @@
                     </ul>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_flowchamber_cable_entry_cap_assembly.JPEG" width="2048" height="1536"></figure>
+                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_flowchamber_cable_entry_cap_assembly.JPEG"></figure>
                 </td>
             </tr>
             <tr>
@@ -789,7 +789,7 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_flowchamber_sensor_in_routed.JPEG" width="2048" height="1536"></figure>
+                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_flowchamber_sensor_in_routed.JPEG"></figure>
                 </td>
             </tr>
             <tr>
@@ -799,7 +799,7 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:1536/2048;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_flowchamber_sensor_out_routed.JPEG" width="1536" height="2048"></figure>
+                    <figure class="image"><img style="aspect-ratio:1536/2048;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_flowchamber_sensor_out_routed.JPEG"></figure>
                 </td>
             </tr>
             <tr>
@@ -809,7 +809,7 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_flowchamber_electronics_bg_double_dupont.JPEG" width="2048" height="1536"></figure>
+                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_flowchamber_electronics_bg_double_dupont.JPEG"></figure>
                 </td>
             </tr>
             <tr>
@@ -819,8 +819,8 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_flowchamber_electronics_bg_double_dupont_inserted1.JPEG" width="2048" height="1536"></figure>
-                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_flowchamber_electronics_bg_double_dupont_inserted2.JPEG" width="2048" height="1536"></figure>
+                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_flowchamber_electronics_bg_double_dupont_inserted1.JPEG"></figure>
+                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_flowchamber_electronics_bg_double_dupont_inserted2.JPEG"</figure>
                 </td>
             </tr>
             <tr>
@@ -835,7 +835,7 @@
                     </ul>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_flowchamber_pico_connected.JPEG" width="2048" height="1536"></figure>
+                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_flowchamber_pico_connected.JPEG"></figure>
                 </td>
             </tr>
             <tr>
@@ -845,7 +845,7 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="-webkit-text-stroke-width:0px;aspect-ratio:2048/1536;caret-color:rgb(0, 0, 0);color:rgb(0, 0, 0);font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;max-width:100%;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_flowchamber_sensor_in_fastened.JPEG" alt="BPM sensor-in fastened" width="2048" height="1536"></figure>
+                    <figure class="image"><img style="-webkit-text-stroke-width:0px;aspect-ratio:2048/1536;caret-color:rgb(0, 0, 0);color:rgb(0, 0, 0);font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;max-width:100%;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_flowchamber_sensor_in_fastened.JPEG" alt="BPM sensor-in fastened"></figure>
                 </td>
             </tr>
             <tr>
@@ -860,7 +860,7 @@
                     </ul>
                 </td>
                 <td>
-                    <figure class="image"><img style="-webkit-text-stroke-width:0px;aspect-ratio:2048/1536;caret-color:rgb(0, 0, 0);color:rgb(0, 0, 0);font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;max-width:100%;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_flowchamber_fan_pin.JPEG" alt="BPM Fan Wire Pin" width="2048" height="1536"></figure>
+                    <figure class="image"><img style="-webkit-text-stroke-width:0px;aspect-ratio:2048/1536;caret-color:rgb(0, 0, 0);color:rgb(0, 0, 0);font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;max-width:100%;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_flowchamber_fan_pin.JPEG" alt="BPM Fan Wire Pin"></figure>
                 </td>
             </tr>
             <tr>
@@ -870,8 +870,8 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="-webkit-text-stroke-width:0px;aspect-ratio:2048/1536;caret-color:rgb(0, 0, 0);color:rgb(0, 0, 0);font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;max-width:100%;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_flowchamber_fan_placed.JPEG" alt="BPM Delta BFB0712HF fan placed" width="2048" height="1536"></figure>
-                    <figure class="image"><img style="-webkit-text-stroke-width:0px;aspect-ratio:1536/2048;caret-color:rgb(0, 0, 0);color:rgb(0, 0, 0);font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;max-width:100%;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_flowchamber_fan_fastened.JPEG" alt="BPM Delta BFB0712HF fan fastened" width="1536" height="2048"></figure>
+                    <figure class="image"><img style="-webkit-text-stroke-width:0px;aspect-ratio:2048/1536;caret-color:rgb(0, 0, 0);color:rgb(0, 0, 0);font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;max-width:100%;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_flowchamber_fan_placed.JPEG" alt="BPM Delta BFB0712HF fan placed"></figure>
+                    <figure class="image"><img style="-webkit-text-stroke-width:0px;aspect-ratio:1536/2048;caret-color:rgb(0, 0, 0);color:rgb(0, 0, 0);font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;max-width:100%;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_flowchamber_fan_fastened.JPEG" alt="BPM Delta BFB0712HF fan fastened"></figure>
                 </td>
             </tr>
             <tr>
@@ -881,7 +881,7 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="-webkit-text-stroke-width:0px;aspect-ratio:2048/1536;caret-color:rgb(0, 0, 0);color:rgb(0, 0, 0);font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;max-width:100%;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_flowchamber_fan_connected.JPEG" alt="BPM Delta BFB0712HF fan connected" width="2048" height="1536"></figure>
+                    <figure class="image"><img style="-webkit-text-stroke-width:0px;aspect-ratio:2048/1536;caret-color:rgb(0, 0, 0);color:rgb(0, 0, 0);font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;max-width:100%;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_flowchamber_fan_connected.JPEG" alt="BPM Delta BFB0712HF fan connected" ></figure>
                 </td>
             </tr>
             <tr>
@@ -896,7 +896,7 @@
                     </ul>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_flowchamber_fan_routed.JPEG" width="2048" height="1536"></figure>
+                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_flowchamber_fan_routed.JPEG"></figure>
                 </td>
             </tr>
             <tr>
@@ -906,7 +906,7 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_flowchamber_duct_inserted.JPEG" width="2048" height="1536"></figure>
+                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_flowchamber_duct_inserted.JPEG"></figure>
                 </td>
             </tr>
             <tr>
@@ -916,7 +916,7 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_flowchamber_exhaust_slider_inserted.JPEG" width="2048" height="1536"></figure>
+                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_flowchamber_exhaust_slider_inserted.JPEG"></figure>
                 </td>
             </tr>
             <tr>
@@ -929,7 +929,7 @@
                 </td>
                 <td>
                     <p>From DOPM Instructions:</p>
-                    <figure class="image"><img style="aspect-ratio:1600/1553;" src="https://github.com/nevermore3d/StealthMax/raw/main/assets/docs/dopm_flowchamber_electronics_complete.png" width="1600" height="1553"></figure>
+                    <figure class="image"><img style="aspect-ratio:1600/1553;" src="https://github.com/nevermore3d/StealthMax/raw/main/assets/docs/dopm_flowchamber_electronics_complete.png"></figure>
                 </td>
             </tr>
         </tbody>
@@ -965,7 +965,7 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="-webkit-text-stroke-width:0px;aspect-ratio:2048/1536;caret-color:rgb(0, 0, 0);color:rgb(0, 0, 0);font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;max-width:100%;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/carbonbasket_lidhandle_inserted.JPEG" alt="Carbon basket lid handle inserted" width="2048" height="1536"></figure>
+                    <figure class="image"><img style="-webkit-text-stroke-width:0px;aspect-ratio:2048/1536;caret-color:rgb(0, 0, 0);color:rgb(0, 0, 0);font-style:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;max-width:100%;orphans:auto;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:auto;word-spacing:0px;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/carbonbasket_lidhandle_inserted.JPEG" alt="Carbon basket lid handle inserted"></figure>
                 </td>
             </tr>
             <tr>
@@ -975,7 +975,7 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:1536/2048;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/carbonbasket_lidhandle_filament.JPEG" width="1536" height="2048"></figure>
+                    <figure class="image"><img style="aspect-ratio:1536/2048;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/carbonbasket_lidhandle_filament.JPEG"></figure>
                 </td>
             </tr>
             <tr>
@@ -985,8 +985,8 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/carbonbasket_lidhandle_lid_orientation.JPEG" width="2048" height="1536"></figure>
-                    <figure class="image"><img style="aspect-ratio:1787/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/carbonbasket_lidhandle_lid.JPEG" width="1787" height="1536"></figure>
+                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/carbonbasket_lidhandle_lid_orientation.JPEG"></figure>
+                    <figure class="image"><img style="aspect-ratio:1787/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/carbonbasket_lidhandle_lid.JPEG"></figure>
                 </td>
             </tr>
         </tbody>
@@ -1030,8 +1030,8 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:2048/1347;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_mainchamber_sensor_out_routed_bottom.JPEG" width="2048" height="1347"></figure>
-                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_mainchamber_sensor_out_routed.JPEG" width="2048" height="1536"></figure>
+                    <figure class="image"><img style="aspect-ratio:2048/1347;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_mainchamber_sensor_out_routed_bottom.JPEG"></figure>
+                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_mainchamber_sensor_out_routed.JPEG"></figure>
                 </td>
             </tr>
             <tr>
@@ -1041,7 +1041,7 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:1624/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_mainchamber_fastened.JPEG" width="1624" height="1536"></figure>
+                    <figure class="image"><img style="aspect-ratio:1624/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_mainchamber_fastened.JPEG"></figure>
                 </td>
             </tr>
             <tr>
@@ -1051,7 +1051,7 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_mainchamber_vent_screw.JPEG" width="2048" height="1536"></figure>
+                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_mainchamber_vent_screw.JPEG"></figure>
                 </td>
             </tr>
             <tr>
@@ -1061,7 +1061,7 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/mainchamber_assembly_lidfronthinge_300.JPEG" width="2048" height="1536"></figure>
+                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/mainchamber_assembly_lidfronthinge_300.JPEG"></figure>
                 </td>
             </tr>
             <tr>
@@ -1071,7 +1071,7 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:1536/2048;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/mainchamber_assembly_lidfronthinge_fastened_300.JPEG" width="1536" height="2048"></figure>
+                    <figure class="image"><img style="aspect-ratio:1536/2048;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/mainchamber_assembly_lidfronthinge_fastened_300.JPEG"></figure>
                 </td>
             </tr>
             <tr>
@@ -1081,8 +1081,8 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:1913/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/mainchamber_carbonbasket_angle_300.JPEG" width="1913" height="1536"></figure>
-                    <figure class="image"><img style="aspect-ratio:1797/1509;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/mainchamber_carbonbasket_inserted_300.JPEG" width="1797" height="1509"></figure>
+                    <figure class="image"><img style="aspect-ratio:1913/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/mainchamber_carbonbasket_angle_300.JPEG""></figure>
+                    <figure class="image"><img style="aspect-ratio:1797/1509;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/mainchamber_carbonbasket_inserted_300.JPEG"></figure>
                 </td>
             </tr>
             <tr>
@@ -1092,7 +1092,7 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/mainchamber_sensor_out_fastened.JPEG" width="2048" height="1536"></figure>
+                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/mainchamber_sensor_out_fastened.JPEG"></figure>
                 </td>
             </tr>
             <tr>
@@ -1102,7 +1102,7 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:1731/967;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/mainchamber_logocap_inserted.JPEG" width="1731" height="967"></figure>
+                    <figure class="image"><img style="aspect-ratio:1731/967;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/mainchamber_logocap_inserted.JPEG"></figure>
                 </td>
             </tr>
             <tr>
@@ -1112,7 +1112,7 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/mainchamber_filters_inserted.JPEG" width="2048" height="1536"></figure>
+                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/mainchamber_filters_inserted.JPEG"></figure>
                 </td>
             </tr>
             <tr>
@@ -1122,7 +1122,7 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/mainchamber_hepa_cover_inserted.JPEG" width="2048" height="1536"></figure>
+                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/mainchamber_hepa_cover_inserted.JPEG"></figure>
                 </td>
             </tr>
             <tr>
@@ -1132,8 +1132,8 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/flowchamber_bowden_cap_assembled.JPEG" width="2048" height="1536"></figure>
-                    <figure class="image"><img style="aspect-ratio:1914/1016;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/flowchamber_bowden_caps_inserted.JPEG" width="1914" height="1016"></figure>
+                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/flowchamber_bowden_cap_assembled.JPEG"></figure>
+                    <figure class="image"><img style="aspect-ratio:1914/1016;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/flowchamber_bowden_caps_inserted.JPEG"></figure>
                 </td>
             </tr>
             <tr>
@@ -1208,7 +1208,7 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_mounting_2020_screws.JPEG" width="2048" height="1536"></figure>
+                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_mounting_2020_screws.JPEG"></figure>
                 </td>
             </tr>
             <tr>
@@ -1218,7 +1218,7 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_mounting_exhaustfitting_fastened.JPEG" width="2048" height="1536"></figure>
+                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_mounting_exhaustfitting_fastened.JPEG"></figure>
                 </td>
             </tr>
             <tr>
@@ -1228,7 +1228,7 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_mounting_2020_hammerhead.JPEG" width="2048" height="1536"></figure>
+                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_mounting_2020_hammerhead.JPEG"></figure>
                 </td>
             </tr>
             <tr>
@@ -1238,8 +1238,8 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_mounting_stealthmax_mounting.JPEG" width="2048" height="1536"></figure>
-                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_mounting_stealthmax_fastened.JPEG" width="2048" height="1536"></figure>
+                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_mounting_stealthmax_mounting.JPEG"></figure>
+                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_mounting_stealthmax_fastened.JPEG"></figure>
                 </td>
             </tr>
             <tr>
@@ -1249,7 +1249,7 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:1995/1496;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_mounting_backpanelmount_fastened1.JPEG" width="1995" height="1496"></figure>
+                    <figure class="image"><img style="aspect-ratio:1995/1496;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_mounting_backpanelmount_fastened1.JPEG"></figure>
                 </td>
             </tr>
             <tr>
@@ -1259,7 +1259,7 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:1911/1433;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_mounting_backpanelmount_fastened2.JPEG" width="1911" height="1433"></figure>
+                    <figure class="image"><img style="aspect-ratio:1911/1433;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_mounting_backpanelmount_fastened2.JPEG"></figure>
                 </td>
             </tr>
             <tr>
@@ -1269,7 +1269,7 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:1948/1461;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_mounting_ptfe_routing.JPEG" width="1948" height="1461"></figure>
+                    <figure class="image"><img style="aspect-ratio:1948/1461;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_mounting_ptfe_routing.JPEG"></figure>
                 </td>
             </tr>
             <tr>
@@ -1279,7 +1279,7 @@
                     </ol>
                 </td>
                 <td>
-                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_mounting_backpanelmountcover_fastened.JPEG" width="2048" height="1536"></figure>
+                    <figure class="image"><img style="aspect-ratio:2048/1536;" src="https://github.com/nevermore3d/StealthMax/raw/604209ce91755ed4f2dfabc74a2c666b40074d2c/assets/docs/BPM/bpm_mounting_backpanelmountcover_fastened.JPEG"></figure>
                 </td>
             </tr>
             <tr>
